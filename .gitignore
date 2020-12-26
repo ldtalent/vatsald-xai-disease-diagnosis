@@ -1,0 +1,5 @@
+*.JPG
+*.jpg
+.idea/**
+.ipynb_checkpoints/**
+notebooks/**
